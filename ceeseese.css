@@ -3,10 +3,10 @@ table#tabla1{
     text-align: center;
     padding: 5px;
 }
-table.tod{
+table.rod{
     width: 100%;
 }
-td.der{
+td.123{
     text-align: right;
     width: 50%;
 }
@@ -20,7 +20,7 @@ tr.cen{
 td.par {
     width: 33%;
 }
-tr#coll{
+tr#td2{
     background-color: yellow;
     border-radius: 50px 50px 50px 50px;
 -moz-border-radius: 50px 50px 50px 50px;
