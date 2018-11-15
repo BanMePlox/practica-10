@@ -1,4 +1,4 @@
-table#gran{
+table#tabla1{
     width: 1950px;
     text-align: center;
     padding: 5px;
@@ -34,7 +34,7 @@ td.col{
 -webkit-border-radius: 50px 50px 50px 50px;
 border: 0px solid #000000;
 }
-td#col{
+td#td1{
     background-color: yellow;
     border-radius: 50px 50px 50px 50px;
 -moz-border-radius: 50px 50px 50px 50px;
@@ -52,7 +52,7 @@ iframe{
     width: 1950px;
     height: 1080px;
 }
-table#gran2{
+table#tabla2{
     width: 1950px;
     height: 1080px;
     text-align: center;
